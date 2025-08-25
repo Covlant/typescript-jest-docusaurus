@@ -6,6 +6,7 @@
  */
 
 import _ from 'lodash';
+
 import {toMessageRelativeFilePath} from '@docusaurus/utils';
 import type {
   Sidebars,
