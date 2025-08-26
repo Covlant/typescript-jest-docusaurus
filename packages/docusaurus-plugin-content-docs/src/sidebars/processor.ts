@@ -6,6 +6,8 @@
  */
 
 import _ from 'lodash';
+
+
 import combinePromises from 'combine-promises';
 import {DefaultSidebarItemsGenerator} from './generator';
 import {validateSidebars} from './validation';
